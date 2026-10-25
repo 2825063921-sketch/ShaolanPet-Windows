@@ -1,0 +1,19 @@
+{
+  "role": "shaolan",
+  "title": "薄肌桌宠 · Windows",
+  "exe": "ShaolanPet.exe",
+  "package": "ShaolanPet-Windows",
+  "version": "1.0.0",
+  "shortcut": "薄肌桌宠",
+  "clipCount": 37,
+  "defaultIds": [
+    7,
+    16,
+    17,
+    19,
+    26,
+    30,
+    31,
+    32
+  ]
+}
